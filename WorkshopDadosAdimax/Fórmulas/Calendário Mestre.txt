@@ -1,0 +1,3 @@
+=#date (1900,1,1)
+
+=List.Dates(Fonte, Number.From(DateTime.LocalNow()) - Number.From(Fonte), #duration (1,0,0,0))
