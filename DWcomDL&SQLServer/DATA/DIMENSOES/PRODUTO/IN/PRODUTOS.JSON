@@ -1,0 +1,247 @@
+[
+  {
+    "SKU": 1040107,
+    "DESCRITOR": "Arroz",
+    "DEPARTAMENTO": "Mercearia",
+    "PRECO": 4.5,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 1037797,
+    "DESCRITOR": "Feijão",
+    "DEPARTAMENTO": "Mercearia",
+    "PRECO": 6,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 1000889,
+    "DESCRITOR": "Macarrão",
+    "DEPARTAMENTO": "Mercearia",
+    "PRECO": 2.5,
+    "UNIDADE": "Pacote"
+  },
+  {
+    "SKU": 1004327,
+    "DESCRITOR": "Açúcar",
+    "DEPARTAMENTO": "Mercearia",
+    "PRECO": 3,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 1088126,
+    "DESCRITOR": "Café",
+    "DEPARTAMENTO": "Mercearia",
+    "PRECO": 9,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 544931,
+    "DESCRITOR": "Óleo de cozinha",
+    "DEPARTAMENTO": "Mercearia",
+    "PRECO": 5.5,
+    "UNIDADE": "Garrafa"
+  },
+  {
+    "SKU": 1078680,
+    "DESCRITOR": "Sal",
+    "DEPARTAMENTO": "Mercearia",
+    "PRECO": 1.5,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 1042712,
+    "DESCRITOR": "Farinha de trigo",
+    "DEPARTAMENTO": "Mercearia",
+    "PRECO": 3.5,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 788975,
+    "DESCRITOR": "Leite",
+    "DEPARTAMENTO": "Laticínios",
+    "PRECO": 3,
+    "UNIDADE": "Garrafa"
+  },
+  {
+    "SKU": 1002767,
+    "DESCRITOR": "Queijo",
+    "DEPARTAMENTO": "Laticínios",
+    "PRECO": 35,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 231776,
+    "DESCRITOR": "Manteiga",
+    "DEPARTAMENTO": "Laticínios",
+    "PRECO": 6,
+    "UNIDADE": "Pacote"
+  },
+  {
+    "SKU": 479745,
+    "DESCRITOR": "Iogurte",
+    "DEPARTAMENTO": "Laticínios",
+    "PRECO": 2.5,
+    "UNIDADE": "Pacote"
+  },
+  {
+    "SKU": 1051518,
+    "DESCRITOR": "Ovos",
+    "DEPARTAMENTO": "Laticínios",
+    "PRECO": 8,
+    "UNIDADE": "Duzia"
+  },
+  {
+    "SKU": 1101035,
+    "DESCRITOR": "Carne bovina",
+    "DEPARTAMENTO": "Carnes",
+    "PRECO": 35,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 229900,
+    "DESCRITOR": "Carne de frango",
+    "DEPARTAMENTO": "Carnes",
+    "PRECO": 10,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 1086543,
+    "DESCRITOR": "Peixe",
+    "DEPARTAMENTO": "Carnes",
+    "PRECO": 20,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 695594,
+    "DESCRITOR": "Linguiça",
+    "DEPARTAMENTO": "Carnes",
+    "PRECO": 15,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 838819,
+    "DESCRITOR": "Salsicha",
+    "DEPARTAMENTO": "Carnes",
+    "PRECO": 8,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 326779,
+    "DESCRITOR": "Presunto",
+    "DEPARTAMENTO": "Carnes",
+    "PRECO": 10,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 520380,
+    "DESCRITOR": "Pão",
+    "DEPARTAMENTO": "Padaria",
+    "PRECO": 3.5,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 1041119,
+    "DESCRITOR": "Bolos",
+    "DEPARTAMENTO": "Padaria",
+    "PRECO": 20,
+    "UNIDADE": "Pacote"
+  },
+  {
+    "SKU": 243083,
+    "DESCRITOR": "Pães de forma",
+    "DEPARTAMENTO": "Padaria",
+    "PRECO": 5,
+    "UNIDADE": "Pacote"
+  },
+  {
+    "SKU": 394479,
+    "DESCRITOR": "Croissants",
+    "DEPARTAMENTO": "Padaria",
+    "PRECO": 2.5,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 746596,
+    "DESCRITOR": "Biscoitos",
+    "DEPARTAMENTO": "Padaria",
+    "PRECO": 4,
+    "UNIDADE": "Pacote"
+  },
+  {
+    "SKU": 773912,
+    "DESCRITOR": "Frutas",
+    "DEPARTAMENTO": "Frutas e Verduras",
+    "PRECO": 6,
+    "UNIDADE": "Duzia"
+  },
+  {
+    "SKU": 826490,
+    "DESCRITOR": "Legumes",
+    "DEPARTAMENTO": "Frutas e Verduras",
+    "PRECO": 4.5,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 723457,
+    "DESCRITOR": "Verduras",
+    "DEPARTAMENTO": "Frutas e Verduras",
+    "PRECO": 3,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 812829,
+    "DESCRITOR": "Tomate",
+    "DEPARTAMENTO": "Frutas e Verduras",
+    "PRECO": 5,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 290478,
+    "DESCRITOR": "Cenoura",
+    "DEPARTAMENTO": "Frutas e Verduras",
+    "PRECO": 3,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 783663,
+    "DESCRITOR": "Alface",
+    "DEPARTAMENTO": "Frutas e Verduras",
+    "PRECO": 2.5,
+    "UNIDADE": "KG"
+  },
+  {
+    "SKU": 235653,
+    "DESCRITOR": "Bebidas",
+    "DEPARTAMENTO": "Bebidas",
+    "PRECO": 7.5,
+    "UNIDADE": "Garrafas"
+  },
+  {
+    "SKU": 1002334,
+    "DESCRITOR": "Refrigerantes",
+    "DEPARTAMENTO": "Bebidas",
+    "PRECO": 4,
+    "UNIDADE": "Garrafas"
+  },
+  {
+    "SKU": 1013793,
+    "DESCRITOR": "Sucos",
+    "DEPARTAMENTO": "Bebidas",
+    "PRECO": 6,
+    "UNIDADE": "Garrafas"
+  },
+  {
+    "SKU": 1096818,
+    "DESCRITOR": "Água",
+    "DEPARTAMENTO": "Bebidas",
+    "PRECO": 2.5,
+    "UNIDADE": "Garrafas"
+  },
+  {
+    "SKU": 1022450,
+    "DESCRITOR": "Cerveja",
+    "DEPARTAMENTO": "Bebidas",
+    "PRECO": 3.5,
+    "UNIDADE": "Garrafas"
+  }
+]

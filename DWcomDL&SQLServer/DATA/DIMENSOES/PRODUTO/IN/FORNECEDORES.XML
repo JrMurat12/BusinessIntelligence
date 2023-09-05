@@ -1,0 +1,212 @@
+<Produtos>
+  <Produto>
+    <SKU>1040107</SKU>
+    <DESCRITOR>Arroz</DESCRITOR>
+    <CNPJ>98765432100001</CNPJ>
+    <FORNECEDOR>Distribuidor de Alimentos LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1037797</SKU>
+    <DESCRITOR>Feijao</DESCRITOR>
+    <CNPJ>98765432100001</CNPJ>
+    <FORNECEDOR>Distribuidor de Alimentos LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1000889</SKU>
+    <DESCRITOR>Macarrao</DESCRITOR>
+    <CNPJ>98765432100001</CNPJ>
+    <FORNECEDOR>Distribuidor de Alimentos LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1004327</SKU>
+    <DESCRITOR>Acucar</DESCRITOR>
+    <CNPJ>98765432100001</CNPJ>
+    <FORNECEDOR>Distribuidor de Alimentos LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1088126</SKU>
+    <DESCRITOR>Cafe</DESCRITOR>
+    <CNPJ>12345678900001</CNPJ>
+    <FORNECEDOR>Fornecedora de Cafes LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>544931</SKU>
+    <DESCRITOR>Oleo de cozinha</DESCRITOR>
+    <CNPJ>12345678900001</CNPJ>
+    <FORNECEDOR>Fornecedora de Oleos LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1078680</SKU>
+    <DESCRITOR>Sal</DESCRITOR>
+    <CNPJ>12345678900002</CNPJ>
+    <FORNECEDOR>Distribuidora de Sal LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1042712</SKU>
+    <DESCRITOR>Farinha de trigo</DESCRITOR>
+    <CNPJ>12345678900002</CNPJ>
+    <FORNECEDOR>Distribuidora de Farinhas LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>788975</SKU>
+    <DESCRITOR>Leite</DESCRITOR>
+    <CNPJ>98765432100002</CNPJ>
+    <FORNECEDOR>Comercio de Laticinios LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1002767</SKU>
+    <DESCRITOR>Queijo</DESCRITOR>
+    <CNPJ>98765432100002</CNPJ>
+    <FORNECEDOR>Comercio de Laticinios LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>231776</SKU>
+    <DESCRITOR>Manteiga</DESCRITOR>
+    <CNPJ>12345678900003</CNPJ>
+    <FORNECEDOR>Fornecedora de Laticinios LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>479745</SKU>
+    <DESCRITOR>Iogurte</DESCRITOR>
+    <CNPJ>12345678900003</CNPJ>
+    <FORNECEDOR>Fornecedora de Laticinios LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1051518</SKU>
+    <DESCRITOR>Ovos</DESCRITOR>
+    <CNPJ>12345678900003</CNPJ>
+    <FORNECEDOR>Fornecedora de Laticinios LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1101035</SKU>
+    <DESCRITOR>Carne bovina</DESCRITOR>
+    <CNPJ>98765432100003</CNPJ>
+    <FORNECEDOR>Distribuidora de Carnes LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>229900</SKU>
+    <DESCRITOR>Carne de frango</DESCRITOR>
+    <CNPJ>98765432100003</CNPJ>
+    <FORNECEDOR>Distribuidora de Carnes LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1086543</SKU>
+    <DESCRITOR>Peixe</DESCRITOR>
+    <CNPJ>12345678900004</CNPJ>
+    <FORNECEDOR>Fornecedora de Carnes LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>695594</SKU>
+    <DESCRITOR>Linguica</DESCRITOR>
+    <CNPJ>12345678900004</CNPJ>
+    <FORNECEDOR>Fornecedora de Carnes LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>838819</SKU>
+    <DESCRITOR>Salsicha</DESCRITOR>
+    <CNPJ>12345678900004</CNPJ>
+    <FORNECEDOR>Fornecedora de Carnes LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>326779</SKU>
+    <DESCRITOR>Presunto</DESCRITOR>
+    <CNPJ>12345678900004</CNPJ>
+    <FORNECEDOR>Fornecedora de Carnes LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>520380</SKU>
+    <DESCRITOR>Pao</DESCRITOR>
+    <CNPJ>98765432100004</CNPJ>
+    <FORNECEDOR>Comercio de Paes LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1041119</SKU>
+    <DESCRITOR>Bolos</DESCRITOR>
+    <CNPJ>98765432100004</CNPJ>
+    <FORNECEDOR>Comercio de Paes LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>243083</SKU>
+    <DESCRITOR>Paes de forma</DESCRITOR>
+    <CNPJ>98765432100004</CNPJ>
+    <FORNECEDOR>Comercio de Paes LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>394479</SKU>
+    <DESCRITOR>Croissants</DESCRITOR>
+    <CNPJ>98765432100004</CNPJ>
+    <FORNECEDOR>Comercio de Paes LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>746596</SKU>
+    <DESCRITOR>Biscoitos</DESCRITOR>
+    <CNPJ>98765432100004</CNPJ>
+    <FORNECEDOR>Comercio de Paes LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>773912</SKU>
+    <DESCRITOR>Frutas</DESCRITOR>
+    <CNPJ>12345678900005</CNPJ>
+    <FORNECEDOR>Fornecedora de Frutas LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>826490</SKU>
+    <DESCRITOR>Legumes</DESCRITOR>
+    <CNPJ>12345678900005</CNPJ>
+    <FORNECEDOR>Fornecedora de Frutas LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>723457</SKU>
+    <DESCRITOR>Verduras</DESCRITOR>
+    <CNPJ>12345678900005</CNPJ>
+    <FORNECEDOR>Fornecedora de Frutas LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>812829</SKU>
+    <DESCRITOR>Tomate</DESCRITOR>
+    <CNPJ>12345678900005</CNPJ>
+    <FORNECEDOR>Fornecedora de Frutas LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>290478</SKU>
+    <DESCRITOR>Cenoura</DESCRITOR>
+    <CNPJ>12345678900005</CNPJ>
+    <FORNECEDOR>Fornecedora de Frutas LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>783663</SKU>
+    <DESCRITOR>Alface</DESCRITOR>
+    <CNPJ>12345678900005</CNPJ>
+    <FORNECEDOR>Fornecedora de Frutas LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>235653</SKU>
+    <DESCRITOR>Bebidas</DESCRITOR>
+    <CNPJ>98765432100005</CNPJ>
+    <FORNECEDOR>Distribuidora de Bebidas LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1002334</SKU>
+    <DESCRITOR>Refrigerantes</DESCRITOR>
+    <CNPJ>98765432100005</CNPJ>
+    <FORNECEDOR>Distribuidora de Bebidas LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1013793</SKU>
+    <DESCRITOR>Sucos</DESCRITOR>
+    <CNPJ>98765432100006</CNPJ>
+    <FORNECEDOR>Distribuidora de Bebidas LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1096818</SKU>
+    <DESCRITOR>Agua</DESCRITOR>
+    <CNPJ>98765432100006</CNPJ>
+    <FORNECEDOR>Distribuidora de Bebidas LTDA</FORNECEDOR>
+  </Produto>
+  <Produto>
+    <SKU>1022450</SKU>
+    <DESCRITOR>Cerveja</DESCRITOR>
+    <CNPJ>98765432100006</CNPJ>
+    <FORNECEDOR>Distribuidora de Bebidas LTDA</FORNECEDOR>
+  </Produto>
+</Produtos>

@@ -1,0 +1,6 @@
+C:\Users\jefferson.murat\Desktop\FontesVersionador\BusinessIntelligence\DWcomDL&SQLServer\PROJETOS\DatawarehouAtacaDez\CriacaoDataLake\bin\Debug\CriacaoDataLake.dacpac
+C:\Users\jefferson.murat\Desktop\FontesVersionador\BusinessIntelligence\DWcomDL&SQLServer\PROJETOS\DatawarehouAtacaDez\CriacaoDataLake\bin\Debug\CriacaoDataLake.dll
+C:\Users\jefferson.murat\Desktop\FontesVersionador\BusinessIntelligence\DWcomDL&SQLServer\PROJETOS\DatawarehouAtacaDez\CriacaoDataLake\bin\Debug\CriacaoDataLake.pdb
+C:\Users\jefferson.murat\Desktop\FontesVersionador\BusinessIntelligence\DWcomDL&SQLServer\PROJETOS\DatawarehouAtacaDez\CriacaoDataLake\obj\Debug\CriacaoDataLake.sqlproj.AssemblyReference.cache
+C:\Users\jefferson.murat\Desktop\FontesVersionador\BusinessIntelligence\DWcomDL&SQLServer\PROJETOS\DatawarehouAtacaDez\CriacaoDataLake\obj\Debug\CriacaoDataLake.dll
+C:\Users\jefferson.murat\Desktop\FontesVersionador\BusinessIntelligence\DWcomDL&SQLServer\PROJETOS\DatawarehouAtacaDez\CriacaoDataLake\obj\Debug\CriacaoDataLake.pdb
