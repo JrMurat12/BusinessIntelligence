@@ -1,0 +1,1 @@
+(DT_DATE)(SUBSTRING(sua_coluna_string, 1, 4) + "-" + SUBSTRING(sua_coluna_string, 6, 2) + "-" + SUBSTRING(sua_coluna_string, 9, 2))

@@ -1,0 +1,12 @@
+UPDATE [dbo].[dim_cliente]
+   SET [desc_cliente] = ?
+      ,[cod_cidade] = ?
+      ,[desc_cidade] = ?
+      ,[cod_estado] = ?
+      ,[desc_estado] = ?
+      ,[cod_regiao] = ?
+      ,[desc_regiao] = ?
+      ,[cod_segmento] = ?
+      ,[desc_segmento] = ?
+      ,[atr_tamanho_cliente] = ?
+ WHERE [cod_cliente] = ?

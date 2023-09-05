@@ -1,0 +1,1 @@
+(DT_STR,13,1252)(faturamento > 0 && faturamento <= 400000 ? "Pequenos" : (faturamento > 400000 && faturamento < 1000000 ? "Médios" : (faturamento > 1000000 ? "Grandes" : "")))

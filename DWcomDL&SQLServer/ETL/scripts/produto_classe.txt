@@ -1,0 +1,9 @@
+ internal class produto
+    {
+        public string sku { get; set; }
+        public string descritor { get; set; }
+        public string departamento { get; set; }
+        public float preco { get; set; }
+        public string unidade { get; set; }
+
+    }

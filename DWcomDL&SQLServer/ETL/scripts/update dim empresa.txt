@@ -1,0 +1,6 @@
+UPDATE [dbo].[dim_empresa]
+   SET [desc_empresa] = ?
+      ,[desc_loja] = ?
+      ,[atr_tipo_loja] = ?
+      ,[cod_empresa] = ?
+ WHERE [cod_loja] = ?

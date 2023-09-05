@@ -1,0 +1,11 @@
+
+var processoID = Guid.NewGuid().ToString();
+Dts.Variables["User::ProcessoID"].Value = processoID;
+
+==================================
+
+INSERT INTO tbl_log  VALUES ('xxxxxxxxxxxxxxxxxxxxxxxxx', GETDATE(), 'Inicio do processo de carga','Sucesso')
+
+===================================
+
+"INSERT INTO tbl_log  VALUES ('" + @[User::ProcessoID]  + "', GETDATE(), 'Inicio do processo de carga','Sucesso')"

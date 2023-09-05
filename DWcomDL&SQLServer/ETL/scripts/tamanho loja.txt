@@ -1,0 +1,1 @@
+(DT_STR,13,1252)(tamanho > 0 && tamanho <= 6000 ? "Supermercados" : (tamanho > 6000 && tamanho < 12001 ? "Hipermercados" : (tamanho > 12000 ? "Megamercados" : "")))

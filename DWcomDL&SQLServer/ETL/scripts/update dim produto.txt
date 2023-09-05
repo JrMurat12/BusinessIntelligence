@@ -1,0 +1,6 @@
+UPDATE [dbo].[dim_produto]
+   SET  [desc_produto] = ?
+      ,[atr_unidade_medida] = ?
+      ,[cod_fornecedor] = ?
+      ,[cod_setor] = ?
+ WHERE [cod_produto] = ?

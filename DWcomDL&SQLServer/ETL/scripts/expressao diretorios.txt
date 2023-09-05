@@ -1,0 +1,1 @@
+@[User::Diretorio_Destino] +"\\"+ RIGHT(  @[User::Arquivo_Nota] , FINDSTRING(REVERSE( @[User::Arquivo_Nota] ) , "\\", 1) - 1)

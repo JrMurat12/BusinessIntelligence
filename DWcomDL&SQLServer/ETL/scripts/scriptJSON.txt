@@ -1,0 +1,26 @@
+  public override void CreateNewOutputRows()
+    {
+        /*
+          Add rows by calling the AddRow method on the member variable named "<Output Name>Buffer".
+          For example, call MyOutputBuffer.AddRow() if your output was named "MyOutput".
+        */
+
+        string jsonFilePath = @"C:\TEMPO\PRODUTOS.JSON";
+        Encoding encoding = Encoding.GetEncoding("ISO-8859-1");
+
+        // Ler o arquivo JSON
+        string jsonFileContent = File.ReadAllText(jsonFilePath, encoding);
+
+        JavaScriptSerializer js = new JavaScriptSerializer();
+        List<produto> obj = js.Deserialize<List<produto>>(jsonFileContent);
+        foreach (produto obj2 in obj)
+        {
+            Output0Buffer.AddRow();
+            Output0Buffer.sku = obj2.sku;
+            Output0Buffer.descritor = obj2.descritor;
+            Output0Buffer.departamento = obj2.departamento;
+            Output0Buffer.preco = obj2.preco;
+            Output0Buffer.unidade = obj2.unidade;
+        }
+
+    }
